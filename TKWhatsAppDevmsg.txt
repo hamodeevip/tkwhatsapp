@@ -1,0 +1,1 @@
+{'num':'', 'msgs':'\nشكراً لأختياركم واتساب التقني\nThank you for choosing TKWhatsApp\n'}
