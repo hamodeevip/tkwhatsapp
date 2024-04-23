@@ -1,1 +1,1 @@
-{'ver1':'12', 'ver2':'0', 'ver3':' \n•[تحديث جديد] تحديث جديد V12.0 اضغط على تنزيل بالأسفل \n' , 'dli':'https://www.mediafire.com/file/gjrlqag8a0eqk6u/QKWhatsApp_V12.0.apk/file', 'exp925':'1', 'exp935':'107777', 'exp929':'150', 'exp930':'107'}
+{'ver1':'13', 'ver2':'0', 'ver3':' \n•[تحديث جديد] تحديث جديد V12.0 اضغط على تنزيل بالأسفل \n' , 'dli':'https://www.mediafire.com/file/zx05ccrfrgii6au/QKWhatsApp+V13.0.apk/file', 'exp925':'1', 'exp935':'107777', 'exp929':'150', 'exp930':'107'}
